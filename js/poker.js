@@ -102,15 +102,15 @@ var radio_id = {
     
     let img_cnt = 0;
     let img = {
-       0 : 'poker11.jpg',
-       1 : 'poker22.jpg',
-       2 : 'poker33.jpg',
-       3 : 'poker44.jpg',
-       4 : 'poker55.jpg',
-       5 : 'poker66.jpg',
-       6 : 'poker7.jpg',
-       7 : 'poker88.jpg',
-       8 : 'poker99.jpg',
+       0 : 'img/poker11.jpg',
+       1 : 'img/poker22.jpg',
+       2 : 'img/poker33.jpg',
+       3 : 'img/poker44.jpg',
+       4 : 'img/poker55.jpg',
+       5 : 'img/poker66.jpg',
+       6 : 'img/poker7.jpg',
+       7 : 'img/poker88.jpg',
+       8 : 'img/poker99.jpg',
     
     }
     function imgReload(){
